@@ -68,6 +68,9 @@ ul li:nth-of-type(9) {
 ul li:nth-of-type(10) {
     animation-delay: 1.8s;
 }
+ul li:nth-of-type(11) {
+    animation-delay: 2.0s;
+}
 
 @keyframes animate {
     0% {
